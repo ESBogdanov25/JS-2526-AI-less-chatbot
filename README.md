@@ -1,5 +1,7 @@
 # AI-Less Chatbot
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 A **rule-based chatbot** that creates the illusion of AI without using machine learning. Users can teach it new responses live, and rules persist across sessions using **localStorage**.
 
 ---
